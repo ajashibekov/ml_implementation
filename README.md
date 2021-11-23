@@ -1,5 +1,6 @@
 # ml_implementation
-My own workbook on implementing simple ML algorithms - a bit rusty, to be continued... 
+My own workbook on implementing simple ML algorithms - a bit rusty, to be continued...
+
 For now covers:
 Models
 - Linear Regression
